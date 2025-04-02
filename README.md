@@ -1,5 +1,5 @@
 # LBM_lid-driven-cavity-flow
-Lattice Boltzmann Method for simulate lid-driven cavity flow
+Lattice Boltzmann Method for simulating lid-driven cavity flow
 
 This is a pratice program when I first learn mesoscopic method. It uses a single relaxation collision model with non-equilibrium extrapolated boundary conditions.
 It should be noted that:
